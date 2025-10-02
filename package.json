@@ -1,0 +1,20 @@
+{
+  "name": "grishinium-landing",
+  "version": "1.0.0",
+  "description": "Grishinium AI-Powered Blockchain Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "grishinium",
+    "blockchain",
+    "AI",
+    "web4",
+    "landing-page"
+  ],
+  "author": "Grishinium Team",
+  "license": "MIT"
+}
